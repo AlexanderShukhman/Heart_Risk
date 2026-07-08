@@ -3,7 +3,7 @@ permalink: /index.html
 ---
 
 
-Ссылка на набор данных: [Heart Attack Risk Prediction Dataset](https://raw.githubusercontent.com/AlexanderShukhman/Heart_Risk/refs/heads/main/heart_attack_dataset%20(1).csv) (Нажмите Alt и щелкните по ссылке для щагрузки)
+Ссылка на набор данных: [Heart Attack Risk Prediction Dataset](https://raw.githubusercontent.com/AlexanderShukhman/Heart_Risk/refs/heads/main/heart_attack_dataset%20(1).csv) (Нажмите Alt и щелкните по ссылке для загрузки)
 
 
 # Дашбоард собранный Perplexity.Pro
